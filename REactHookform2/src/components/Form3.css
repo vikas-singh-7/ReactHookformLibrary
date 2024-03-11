@@ -1,0 +1,22 @@
+.label {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #999;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  /* Style for the container of each input and label */
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
